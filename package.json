@@ -1,0 +1,31 @@
+{
+  "name": "locize-formatjs-example",
+  "version": "0.0.1",
+  "description": "example using formatjs with locize",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locize/locize-formatjs-example.git"
+  },
+  "keywords": [
+    "locize",
+    "formatjs",
+    "i18n",
+    "l10n"
+  ],
+  "author": "locize",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/locize/locize-formatjs-example/issues"
+  },
+  "homepage": "https://github.com/locize/locize-formatjs-example#readme",
+  "dependencies": {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "request": "2.73.0"
+  }
+}
